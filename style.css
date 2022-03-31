@@ -1,0 +1,29 @@
+body {
+    background: rgb(25, 25, 165);
+    font: normal 18pt Arial;
+}
+
+header {
+    color: aliceblue;
+    text-align: center;
+}
+
+#lista {
+    width: 180px;
+}
+
+section {
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 50%;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.571);
+}
+
+footer {
+    color: aliceblue;
+    text-align: center;
+    font-style: italic;
+    font-size: 1.3rem;
+}
